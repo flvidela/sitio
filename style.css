@@ -1,0 +1,26 @@
+/**
+* Template Name: Spot
+* Template URL: https://templatemag.com/spot-bootstrap-freelance-template/
+* Author: TemplateMag.com
+* License: https://templatemag.com/license/
+*/
+
+body {
+    background-color: #f2f2f2;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    margin-top: 70px;
+  }
+  
+  /* Titles */
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+  }
+  
